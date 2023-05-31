@@ -12,4 +12,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilab-khwajazada/)](https://www.linkedin.com/in/nilab-khwajazada/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nilab_khwajazada)](https://twitter.com/nilab_khwajazada)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
- <em> ~ projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+ <em> ~ projects down here ↓ ~ </a>
